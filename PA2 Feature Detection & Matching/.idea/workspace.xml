@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="41257c61-9851-4de6-8243-7dc37b578fb0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ZabxDA1AniQl4prgsi7v5hnOmI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.featuresUI">
+    <configuration name="features" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="5670 A2_release" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/features.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="featuresUI" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="5670 A2_release" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/featuresUI.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tests" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="5670 A2_release" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tests.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testtt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="5670 A2_release" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testtt.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.featuresUI" />
+        <item itemvalue="Python.tests" />
+        <item itemvalue="Python.testtt" />
+        <item itemvalue="Python.features" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41257c61-9851-4de6-8243-7dc37b578fb0" name="Default Changelist" comment="" />
+      <created>1585080397066</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585080397066</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1419" height="174" key="GridCell.Tab.0.bottom" timestamp="1587179949301">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state width="1419" height="174" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1587089008326" />
+    <state width="1419" height="174" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1587179949301" />
+    <state width="1419" height="174" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1586575256194" />
+    <state width="1419" height="174" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1586465068452" />
+    <state width="1419" height="174" key="GridCell.Tab.0.center" timestamp="1587179949298">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state width="1419" height="174" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1587089008324" />
+    <state width="1419" height="174" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1587179949298" />
+    <state width="1419" height="174" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1586575256191" />
+    <state width="1419" height="174" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1586465068451" />
+    <state width="1419" height="174" key="GridCell.Tab.0.left" timestamp="1587179949297">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state width="1419" height="174" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1587089008324" />
+    <state width="1419" height="174" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1587179949297" />
+    <state width="1419" height="174" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1586575256190" />
+    <state width="1419" height="174" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1586465068450" />
+    <state width="1419" height="174" key="GridCell.Tab.0.right" timestamp="1587179949300">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state width="1419" height="174" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1587089008325" />
+    <state width="1419" height="174" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1587179949300" />
+    <state width="1419" height="174" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1586575256192" />
+    <state width="1419" height="174" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1586465068452" />
+    <state width="1419" height="303" key="GridCell.Tab.1.bottom" timestamp="1585505587904">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1585505587904" />
+    <state width="1419" height="303" key="GridCell.Tab.1.center" timestamp="1585505587903">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1585505587903" />
+    <state width="1419" height="303" key="GridCell.Tab.1.left" timestamp="1585505587902">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1585505587902" />
+    <state width="1419" height="303" key="GridCell.Tab.1.right" timestamp="1585505587903">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1585505587903" />
+    <state x="220" y="89" key="SettingsEditor" timestamp="1585493503113">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="220" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1585493503113" />
+    <state x="220" y="103" key="SettingsEditor/0.23.1440.806@0.23.1440.806" timestamp="1585268224417" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1585445280683">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1585445280683" />
+  </component>
+</project>
